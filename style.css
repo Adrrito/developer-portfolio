@@ -20,6 +20,12 @@ section {
 .half-width img {
   width: 100%;
 }
-.button {
-  background-color: orange;
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 7px 30px;
+  color: white;
+  font-weight: 700;
+  font-size: 25px;
+  border-radius: 5px;
 }
